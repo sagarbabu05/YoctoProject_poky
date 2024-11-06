@@ -10,7 +10,7 @@ $ vi conf/local.conf
 
 # and modify configuration as per our software and hardware requirments
 # so, in my case i am developing "beaglebone-yocto" build images 
-edit #MACHINE= 'beaglebone-yocto' into MACHINE= 'beaglebone-yocto'
+edit  
 and comment "#MACHINE= qemu_x86"
 # and it will be modifies as per our requrments.
 # back to our build directory. and, build Images using commant:
